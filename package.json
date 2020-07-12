@@ -44,5 +44,15 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.9.5"
+  },
+  "author": "choas-ui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choas-ui/choas-ng/issues"
+  },
+  "homepage": "https://github.com/choas-ui/choas-ng#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choas-ui/choas-ng.git"
   }
 }
